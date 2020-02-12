@@ -1,4 +1,4 @@
-                                                     # Practical File 
+#                                                     Practical File 
                                             
                                              Programming For Problem Solving
                                                        [ESC-105]
@@ -30,4 +30,4 @@
                                                                                                             
                                                                                                             
                                      Guru Nanak Dev Engineering College 
-                                   Department Of Electronic & Communication 
+                              Department Of Electronic & Communication Engineering 
