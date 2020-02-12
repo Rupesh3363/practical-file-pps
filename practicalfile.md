@@ -42,4 +42,4 @@
 |   6  | write a program to display the report to patient using name ,age , blood group, gender, and desiese.|
 |   7  | write a program to creat of students pass or fail where students will inter the data to department ,name marks in       
          chemistry ,maths ,pps,english where the condition is user will not exit marks of 24 , if exceeds user have to re-enter      
-         the marks and if the user obtain less than 10 marks ,report will generate fail otherwise pass.|
+         the marks and if the user obtain less than 10 marks ,report will generate fail otherwise pass|
